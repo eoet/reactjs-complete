@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "New Stream blah blah",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "New Stream 1",
+      "description": "New Stream blah blah 1",
+      "userId": "116551170149179337714",
+      "id": 4
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "116551170149179337714",
+      "id": 5
+    },
+    {
+      "title": "Reuse components update",
+      "description": "Reuse components 123",
+      "id": 6
+    }
+  ]
+}
